@@ -1,0 +1,22 @@
+# Core MAS framework
+mesa
+
+# Web dashboard
+streamlit
+
+# Data processing
+pandas
+numpy
+
+# Export utilities
+openpyxl       # Excel export/import (.xlsx)
+fpdf2          # PDF export
+reportlab      # PDF fallback
+
+# Visualisation (used in dashboard)
+plotly
+matplotlib
+
+# Database (stdlib sqlite3 is used, no extra install needed)
+# Machine learning (optional PreferenceAgent extension)
+scikit-learn
